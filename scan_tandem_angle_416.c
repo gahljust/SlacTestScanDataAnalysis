@@ -1,4 +1,4 @@
-// Brady Lowe // lowebra2@isu.edu
+
 /* This file creats a graph for the angle scan of the tandem detector
 Makes a canvas Then makes three graphs with for loops that run through the runs
 feed in. It grabs PE values from the read_csv.h, and needs hard coded angles
