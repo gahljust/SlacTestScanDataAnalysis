@@ -1,4 +1,3 @@
-// Brady Lowe // lowebra2@isu.edu
 
 #include "pmt_analyzer_showermax.c"
 
