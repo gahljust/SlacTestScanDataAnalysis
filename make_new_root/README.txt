@@ -9,7 +9,7 @@ Follow these steps to make a New large root file
 3. Merge all the new *_update_analyzed.root files with this command in terminal
     $ hadd Big.root *_update_analyzed.root
 
-4. Then change file paths in the merge_ttrees_test3.C, then run this from the same directory as Big.root & merge_ttrees_test3.C
+4. Change file paths in the merge_ttrees_test3.C, then run this from the same directory as Big.root & merge_ttrees_test3.C
     $ root -l merge_ttrees_test3.C
 
     ...let finish...
